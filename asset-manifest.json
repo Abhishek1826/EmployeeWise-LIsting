@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmployeeWise-LIsting/static/css/main.9cd7f9ba.css",
+    "main.js": "/EmployeeWise-LIsting/static/js/main.71b12846.js",
+    "static/js/453.84a94e83.chunk.js": "/EmployeeWise-LIsting/static/js/453.84a94e83.chunk.js",
+    "index.html": "/EmployeeWise-LIsting/index.html",
+    "main.9cd7f9ba.css.map": "/EmployeeWise-LIsting/static/css/main.9cd7f9ba.css.map",
+    "main.71b12846.js.map": "/EmployeeWise-LIsting/static/js/main.71b12846.js.map",
+    "453.84a94e83.chunk.js.map": "/EmployeeWise-LIsting/static/js/453.84a94e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd7f9ba.css",
+    "static/js/main.71b12846.js"
+  ]
+}
