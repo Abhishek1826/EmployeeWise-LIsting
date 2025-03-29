@@ -2,6 +2,95 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+EmployeeWise Listing  
+
+A React-based employee management system that allows users to view, edit, delete, and manage employees. The application uses Bootstrap for styling and React Paginate for pagination.
+
+## Features  
+
+- User listing with pagination  
+- Edit employee details using a modal form  
+- Delete employee from the list  
+- Navigation bar with login, signup, and dashboard links  
+- Simple authentication logic  
+- Deployed using GitHub Pages  
+
+## Pages  
+
+### Home (`/`)  
+- Displays an introduction to the system  
+- Navigation links for Login, Signup, and Dashboard  
+
+### Login (`/login`)  
+- Allows users to log in  
+- Redirects to the dashboard after login  
+
+### Registration (`/register`)  
+- Users can sign up for an account  
+- After registration, users can log in  
+
+### Dashboard (`/dashboard`)  
+- Displays a list of employees with their names and emails  
+- Each employee has options to edit or delete  
+- Edit opens a form with pre-filled data  
+- Pagination allows navigation between pages  
+
+## Installation  
+
+### Prerequisites  
+- Node.js  
+- Git  
+
+### Steps to Install and Run  
+
+1. Clone the repository:  
+   ```
+   git clone https://github.com/Abhishek1826/EmployeeWise-Listing.git
+   cd EmployeeWise-Listing
+   ```
+
+2. Install dependencies:  
+   ```
+   npm install
+   ```
+
+3. Run the app locally:  
+   ```
+   npm start
+   ```
+   The app will open at `http://localhost:3000/`.  
+
+## Deployment to GitHub Pages  
+
+1. Install GitHub Pages package (if not installed):  
+   ```
+   npm install gh-pages --save-dev
+   ```
+
+2. Add the following to `package.json`:  
+   ```json
+   "homepage": "https://Abhishek1826.github.io/EmployeeWise-Listing"
+   ```
+
+3. Deploy the app:  
+   ```
+   npm run deploy
+   ```
+
+The application will be available at:  
+`https://Abhishek1826.github.io/EmployeeWise-Listing/`  
+
+## Contributing  
+
+Fork the repository and submit pull requests for improvements.  
+
+## Contact  
+
+GitHub: [github.com/Abhishek1826](https://github.com/Abhishek1826)  
+Portfolio: [abhishek1826.github.io/My-Portfolio](https://abhishek1826.github.io/My-Portfolio/#/)  
+
+Let me know if you need any modifications.
+
 ## Available Scripts
 
 In the project directory, you can run:
