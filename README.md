@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+username : eve.holt@regress.in
+password :cityslicka
+
 EmployeeWise Listing  
 
 A React-based employee management system that allows users to view, edit, delete, and manage employees. The application uses Bootstrap for styling and React Paginate for pagination.
