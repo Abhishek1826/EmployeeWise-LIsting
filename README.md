@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Login using this password or you can signup using your username and password and then login using the same
+Login using this id/password or you can signup using your username and password and then login using the same
 
 username : eve.holt@regress.in
 password : cityslicka
