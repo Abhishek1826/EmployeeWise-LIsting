@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+        "id": "Global",
+        "name": "Abhishek",
+        "password": "cityslicka",
+        "email": "eve.holt@regress.in",
+        "phone": "867656976",
+        "address": "knox street",
+        "country": "uk",
+        "gender": "female"
+      },
+
+    {
+      "id": "abhi",
+      "name": "Abhishek",
+      "password": "admin",
+      "email": "abhishek@gmail.com",
+      "phone": "8676858958715",
+      "address": "knox street",
+      "country": "uk",
+      "gender": "male"
+    },
+    {
+      "id": "Manasi",
+      "name": "Manasi",
+      "password": "Mauu",
+      "email": "mauu2343@gmail.com",
+      "phone": "676723444553",
+      "address": "Mumbai malad ",
+      "country": "india",
+      "gender": "male"
+    },
+    {
+      "id": "john",
+      "name": "johnathan",
+      "password": "cena",
+      "email": "johnathan@gmail.com",
+      "phone": "977555666",
+      "address": "kimberly garden",
+      "country": "uk",
+      "gender": "male"
+    },
+    {
+      "id": "Ram",
+      "name": "Ram",
+      "password": "Sharma",
+      "email": "ramraghuvanshi@gmail.com",
+      "phone": "67565656454",
+      "address": "Uttar pradesh",
+      "country": "india",
+      "gender": "male"
+    }
+  ]
+}
